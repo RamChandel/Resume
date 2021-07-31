@@ -1,0 +1,70 @@
+{
+	"basics": {
+		"name": "Ram Chandel",
+		"label": "Student",
+		"picture": "SAVE_20210404_233327.jpg",
+		"email": "ram8176970175@gmail.com",
+		"phone": "8299565210",
+		"website": "Not Yet",
+		"summary": "I am a self-starter with strong social skills. I work efficiently both as an individual contributor as well as along with a team. I seek new challenges and try to think out-of-the-box while looking for creative solutions to a given problem. Besides the details given in my resume, I believe in character, values, vision, and action. I am a quick learner and believe in learning from my mistakes for I strongly feel that this virtue will take me ahead in life and career.",
+		"location": {
+			"address": "K 24/62 A Ram Ghat",
+			"postalCode": "221001",
+			"city": "Varanasi",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "RamChandel",
+				"url": "https://www.github.com/RamChandel/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Ram Chandel",
+				"url": "https://www.linkedin.com/in/ram-chandel-074a71174/"
+			},
+			{
+				"network": "Instagram",
+				"username": "Ram chandel",
+				"url": "https://instagram.com/ram_chandel369/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-02 //Date",
+		"endDate": "2024",
+		"gpa": "NA",
+		"courses": [
+			"Electronics And Communication Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "36th Open National Taekwondo Championship",
+		"awarder": "Gm. Jimmy R. Jagtiani",
+		"date": "2016-12-31//Date"
+	},
+  {
+		"title": "Open International Taekwondo Championship 2017",
+		"awarder": "Dr. Taher Tambawala (President, Association of Taekwon-Do India)",
+		"date": "2017-05-21//Date"
+	},
+  {
+		"title": "38th Open National Taekwondo Championship",
+		"awarder": "Gm. Jimmy R. Jagtiani",
+		"date": "2018-09-25//Date"
+	}
+            ],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "Nodejs","MongoDb", "C", "JAVA","Data Structures and Algorithems(intermediate)"]
+	}],
+	"interests": [{
+		"name": ["Sports","Music (Vocal and instruments)", "Poetry", "Sketching"]
+		"keywords": ["Chess", "Martial Arts", "Taekwon-Do", "Guitar","Poetry", "Sketching"]
+	}],
+}
